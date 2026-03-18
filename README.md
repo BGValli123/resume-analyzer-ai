@@ -36,5 +36,6 @@ A GUI-based AI resume analyzer built using Python and Tkinter that evaluates res
 ## Project Purpose
 
 This project simulates an ATS (Applicant Tracking System) to evaluate resumes and provide actionable feedback for improvement.
-<img width="820" height="658" alt="resume _analyzer" src="https://github.com/user-attachments/assets/c14294ac-f337-444d-93b5-8b3c836c926c" />
+<img width="820" height="658" alt="output" src="https://github.com/user-attachments/assets/1b881501-d165-4999-acc1-1ed43db22682" />
+
 
